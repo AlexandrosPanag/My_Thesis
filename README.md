@@ -1,4 +1,4 @@
-# My Thesis - Internet of Things Standards & Platforms.
+# My Thesis - Internet of Things: Standards & Platforms.
  
 !------- WILL BE UPLOADED ONCE IT GETS APPROVED BY THE EVALUATION COMMITTEE AND THE DEPARTMENT OF INFORMATICS & TELECOMMUNICATIONS AT THE UNIVERSITY OF IOANNINA --------!
 
