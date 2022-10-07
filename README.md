@@ -29,8 +29,9 @@ thank the Autonomous Systems Laboratory, for assisting me with their laboratory 
 for the projects regarding the Internet of Things platform related applicati
 
 
-
+----------------------------------------------------------------------------------------------------------------------------------
 ⚖️ This work is copyright protected under the Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) licence.
+----------------------------------------------------------------------------------------------------------------------------------
 
 Under the following terms:
 
