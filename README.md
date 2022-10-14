@@ -7,7 +7,7 @@
 
 
 
-My Batchelor's Thesis which was prepared during the academic year 2022-2023 in the University of Ioannina, Department of Informatics & Telecommunications. The subject that i chose was "Internet of Things: Standards & Platforms". Written by Alexandros Panagiotakopoulos. © All Rights Reserved.
+My Batchelor's Thesis which was prepared during the academic year 2022-2023 in the University of Ioannina, Department of Informatics & Telecommunications. The subject that i chose was "Internet of Things: Standards & Platforms". Written by Alexandros Panagiotakopoulos. © This work is copyright protected under the Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) licence.
 
 
 Official institutional repository:
