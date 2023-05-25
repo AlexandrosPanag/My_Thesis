@@ -12,7 +12,7 @@ My Batchelor's Thesis which was prepared during the academic year 2022-2023 in t
 Special thanks to the Autonomous Systems Laboratory in the University of Ioannina, Department of Informatics & Telecommunications for providing me with the necessary equipment !
 
 
-Official institutional repository:
+Official institutional repository (PLEASE NOTE THAT THE INSTITUTIONAL REPOSITORY LINK IS DOWN UNTIL LATE 2023 BECAUSE OF SERVER ISSUES THE LINK WON'T WORK!!) :
 
 https://apothetirio.lib.uoi.gr/xmlui/handle/123456789/13673
 
